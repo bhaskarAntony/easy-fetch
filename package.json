@@ -1,0 +1,22 @@
+{
+  "name": "easy-fetch-easy",
+  "version": "1.0.5",
+  "description": "this package is used to fetch the from service with easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaskarAntony/easy-fetch.git"
+  },
+  "keywords": [
+    "axios"
+  ],
+  "author": "bhaskar antony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaskarAntony/easy-fetch/issues"
+  },
+  "homepage": "https://github.com/bhaskarAntony/easy-fetch#readme"
+}
